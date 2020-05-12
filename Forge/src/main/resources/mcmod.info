@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pm",
+  "name": "Prison Mod",
+  "description": "Prison basics for OOP.",
+  "version": "1.12",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Amanda Smith"],
+  "credits": "Forge, FML, TechnoVision (for basics)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
